@@ -77,10 +77,10 @@ const AboutSection = () => {
             </div>
             <Image
               className="hidden md:block md:relative md:bottom-4 md:left-32 md:z-0 mt-5"
-              src="/3dcartonic.png"
+              src="/presenting_skills.png"
               alt=""
-              width={250}
-              height={250}
+              width={300}
+              height={325}
             />
           </div>
         </div>
