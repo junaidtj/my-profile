@@ -31,7 +31,7 @@ const AboutSection = () => {
               {""}
               Hi, my name is junaid tariq and i am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{"self-motivated"}</span>, and
+              <span className="font-bold">{"self-motivated"}</span>, and &nbsp;
               <span className="font-bold">{"driven"}</span> software enginier
               based in Lahore .
             </p>
@@ -49,7 +49,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              i believe that you shoud{" "}
+              I believe that you shoud{" "}
               <span className="font-bold text-teal-500">
                 never stop growing
               </span>{" "}

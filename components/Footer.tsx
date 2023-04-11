@@ -19,20 +19,8 @@ const Footer = () => {
                 size={30}
                 />
               </a>
-              <a href="" rel='' target="_blank">
-                <AiOutlineTwitter
-                className='hover:translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100'
-                size={30}
-                />
-              </a>
-              <a href="" rel='' target="_blank">
+              <a href="https://www.linkedin.com/in/junaid-tariq-104571177" rel='' target="_blank">
                 <AiOutlineLinkedin
-                className='hover:translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100'
-                size={30}
-                />
-              </a>
-              <a href="" rel='' target="_blank">
-                <AiOutlineYoutube
                 className='hover:translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100'
                 size={30}
                 />

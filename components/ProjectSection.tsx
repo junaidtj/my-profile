@@ -6,26 +6,26 @@ import SlideUp from "./SlideUp";
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Leader_Board",
     description:
-      "Thankful thought is a web app that generates an appreciative sentence ",
-    image: "",
+      "The leader board is designed with a clean and modern interface, making it easy for users to quickly understand their position and progress in the rankings. Users can view their own scores and achievements, as well as those of other users or teams they are competing against.",
+    image: "/project1.png",
     github: "",
     link: "",
   },
   {
-    name: "Thankful Thoughts",
+    name: "Music-Analyser",
     description:
-      "Thankful thought is a web app that generates an appreciative sentence ",
-    image: "",
+      " Introducing Music-Analyser, a powerful web application for analyzing and visualizing music! With Music-Analyser, you can upload your favorite songs and get a detailed analysis of the music's structure, chords, melody, and more. The application uses advanced algorithms and machine learning techniques to analyze the music and provide insights into its composition and structure. Users can view detailed visualizations of the music, including graphs, charts, and other visual elements that help to highlight key features and patterns in the music. ",
+    image: "/project2.png",
     github: "",
     link: "",
   },
   {
-    name: "Thankful Thoughts",
+    name: "Weather-Analyser",
     description:
-      "Thankful thought is a web app that generates an appreciative sentence ",
-    image: "",
+      "Introducing Weather-Analyser, a powerful web application for analyzing and visualizing weather data! With Weather-Analyser, you can get up-to-date information on the current weather conditions and also view historical weather data for any location in the world. Users can view detailed charts and graphs that highlight temperature, precipitation, wind speed, and other key weather metrics, allowing them to better understand and plan for weather-related events.",
+    image: "/project3.png",
     github: "",
     link: "",
   },
